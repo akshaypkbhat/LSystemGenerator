@@ -1,6 +1,0 @@
-F
-3
-F FF-[XY]+[XY]
-X +FY
-Y -FX
-22.5
