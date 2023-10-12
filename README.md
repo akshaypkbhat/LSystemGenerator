@@ -8,7 +8,7 @@ An L-system consists of an alphabet of symbols that can be used to make strings 
 
 This program can display any fractal in L-System notation, from a simple binary fractal tree to complex recursive curves.
 
-The [Fractals](https://github.com/akshaypkbhat/LSystemGenerator/tree/main/Fractals)https://github.com/akshaypkbhat/LSystemGenerator/tree/main/Fractals folder includes .txt files of fractals in an L-Sytstem format
+The [Fractals](https://github.com/akshaypkbhat/LSystemGenerator/tree/main/Fractals) folder includes .txt files of fractals in an L-Sytstem format
 
 Run the command in a terminal, providing 6 fields:
   filename width height startX startY length ratio *theta*
