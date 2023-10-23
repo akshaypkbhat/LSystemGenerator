@@ -118,5 +118,3 @@ def main():
     pyg.quit()
 
 main()
-
-print('git')
